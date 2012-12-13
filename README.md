@@ -1,4 +1,6 @@
-A Safari extension based on the Chrome Extension by Derek Guenther that notifies you when you have more to study on WaniKani.com.
+A Safari extension that notifies you when you have more to study on WaniKani.com.
+
+This extension is based on the Chrome extension by Derek Guenther (https://github.com/t0asterb0t/wanikani-chrome-notifier/)
 
 ## License
 
